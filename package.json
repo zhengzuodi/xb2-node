@@ -4,6 +4,6 @@
   "description": "《小白兔的开发之路》演示项目",
   "author": "hope <hope@gmail.com>",
   "dependencies": {
-    "express": "^4.17.0"
+    "express": "^4.17.1"
   }
 }
